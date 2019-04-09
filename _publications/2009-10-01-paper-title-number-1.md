@@ -6,7 +6,7 @@ excerpt: '**Hodžić, Vedad**; Triaud, Amaury H. M. J.; Anderson, David R.; Bouc
 date: 2018-08-28
 venue: 'MNRAS'
 paperurl:
-arXiv: 'https://arxiv.org/abs/1807.07557)'
+arxiv: 'https://arxiv.org/abs/1807.07557)'
 ads: 'http://adsabs.harvard.edu/abs/2018MNRAS.481.5091H'
 citation:
 ---

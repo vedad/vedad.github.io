@@ -9,32 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+A full CV can be found here (insert link later).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD Astronomy, _University of Birmingham_, 2021 (expected)
+   Supervisor: Amaury Triaud
+   _Including 6 months at the University of Chicago as a visiting student researcher_
+* MSc Astronomy, _University of Oslo_, 2017
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+   _Including 12 months at the University of Cambridge as a visiting student researcher_
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+   Thesis: _Early Science with the Next Generation Transit Survey_
+   Supervisors: Didier Queloz, Edward Gillen
+* BSc Physics & Astronomy, _University of Oslo_, 2014
+
+Research experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **University of Birmingham**, postgraduate research student, 2017-2021
+* **University of Chicago**, visiting student researcher, 2019-2020
+* **University of Cambridge**, visiting student researcher, 2016-2017
+* **European Space Agency**, trainee, 2015-2016
+* **NASA Jet Propulsion Laboratory**, visiting student researcher, 2015
+* **University of Oslo**, research assistant, 2014
+
 
 Publications
 ======

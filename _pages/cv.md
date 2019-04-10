@@ -18,7 +18,7 @@ Education
    _Including 6 months at the University of Chicago as a visiting student researcher_
 * **MSc Astronomy**, University of Oslo, 2017  
    _Including 12 months at the University of Cambridge as a visiting student researcher_  
-   Thesis: _Early Science with the Next Generation Transit Survey_
+   Thesis: _Early Science with the Next Generation Transit Survey_  
    Supervisors: Didier Queloz, Edward Gillen
 * **BSc Physics & Astronomy**, University of Oslo, 2014
 

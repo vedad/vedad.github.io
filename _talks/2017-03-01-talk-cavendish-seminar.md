@@ -8,4 +8,4 @@ date: 2017-03-01
 location: "Cambridge, UK"
 ---
 
-Presented my work on identifying variable stars with NGTS.
+Presented my work on automatically identifying variable stars with NGTS.

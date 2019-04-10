@@ -1,7 +1,7 @@
 ---
 title: "ENT3R Science Mentor"
 collection: teaching
-type: "Course"
+type: "Tutoring"
 permalink: /teaching/2013-enter
 venue: "University of Oslo"
 date: 2013-01-15

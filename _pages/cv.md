@@ -11,18 +11,16 @@ redirect_from:
 
 A full CV can be found here (insert link later).
 
-Education
+Education  
 ======
-* PhD Astronomy, _University of Birmingham_, 2021 (expected)
-   Supervisor: Amaury Triaud
+* **PhD Astronomy**, University of Birmingham, 2021 (expected)  
+   Supervisor: Amaury Triaud  
    _Including 6 months at the University of Chicago as a visiting student researcher_
-* MSc Astronomy, _University of Oslo_, 2017
-
-   _Including 12 months at the University of Cambridge as a visiting student researcher_
-
+* **MSc Astronomy**, University of Oslo, 2017  
+   _Including 12 months at the University of Cambridge as a visiting student researcher_  
    Thesis: _Early Science with the Next Generation Transit Survey_
    Supervisors: Didier Queloz, Edward Gillen
-* BSc Physics & Astronomy, _University of Oslo_, 2014
+* **BSc Physics & Astronomy**, University of Oslo, 2014
 
 Research experience
 ======

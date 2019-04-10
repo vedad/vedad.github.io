@@ -15,7 +15,7 @@ Education
 ======
 * **PhD Astronomy**, University of Birmingham, 2021 (expected)  
    Supervisor: Amaury Triaud  
-   _Including 6 months at the University of Chicago as a visiting student researcher_
+   _Including 6 months at the University of Chicago as a Fulbright Fellow_
 * **MSc Astronomy**, University of Oslo, 2017  
    _Including 12 months at the University of Cambridge as a visiting student researcher_  
    Thesis: _Early Science with the Next Generation Transit Survey_  

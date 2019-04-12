@@ -36,3 +36,9 @@ Awards and grants
 Fulbright Fellowship  
 Birmingham Doctoral Scholarship  
 University of Birmingham PhD Scholarship
+
+Scientific experience
+======
+Reviewer for the journal _Astronomy & Astrophysics_ (A&A)
+Combined 14 nights observing experience with the HARPS (La Silla, Chile) and SOPHIE (OHP, France) spectrographs
+PI of an accepted proposal on ESPRESSO/VLT (11 hours)

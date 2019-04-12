@@ -1,6 +1,6 @@
 ---
 title: "amelie"
-excerpt: "Fitting toolkit for exoplanet and binary star light curves and radial velocities<!-- <br/><img src='/images/500x300.png'> -->"
+excerpt: "Fitting toolkit for exoplanet and binary star light curves and radial velocities (coming soon<sup>TM</sup><!-- <br/><img src='/images/500x300.png'> -->"
 collection: portfolio
 ---
 

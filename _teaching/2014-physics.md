@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant"
+title: "Introduction to Physics"
 collection: teaching
-type: "Course"
+type: "BSc Year 1 module"
 permalink: /teaching/2014-physics
 venue: "University of Oslo, Department of Physics"
 date: 2014-01-15

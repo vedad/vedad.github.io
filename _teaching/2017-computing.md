@@ -1,7 +1,7 @@
 ---
 title: "Lab Demonstrator"
 collection: teaching
-type: "Lab"
+type: "Computer lab"
 permalink: /teaching/2017-computing
 venue: "University of Birmingham, School of Physics & Astronomy"
 date: 2017-10-01

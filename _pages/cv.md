@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A full CV can be found here (insert link later).
+<!-- A full CV can be found here (insert link later).-->
 
 Education  
 ======

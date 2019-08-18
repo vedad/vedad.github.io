@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vedad Hodžić"
+title                    : "Vedad Kunovac-Hodžić"
 title_separator          : "-"
-name                     : &name "Vedad Hodžić"
+name                     : &name "Vedad Kunovac-Hodžić"
 description              : &description "PhD student, astronomy, exoplanets"
 url                      : https://vedad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vedad Hodžić"
+  name             : "Vedad Kunovac-Hodžić"
   avatar           : "DSC01749.JPG"
   bio              : "PhD student, astronomy, exoplanets"
   location         : "Birmingham, UK"

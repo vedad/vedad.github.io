@@ -41,5 +41,5 @@ Awards and grants
 Scientific experience
 ======
 * Reviewer for the journal _Astronomy & Astrophysics_ (A&A)  
-* Combined 14 nights observing experience with the HARPS (La Silla, Chile) and SOPHIE (OHP, France) spectrographs  
+* Over 21 nights observing experience with the HARPS (La Silla, Chile) and SOPHIE (OHP, France) spectrographs  
 * PI of an accepted proposal on ESPRESSO/VLT (11 hours)

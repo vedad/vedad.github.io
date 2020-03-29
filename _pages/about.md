@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an astronomer-in-training at the University of Birmingham, UK, and currently a Fulbright Fellow at The University of Chicago. In my research I study exoplanets, brown dwarfs, and low-mass stars to learn about their formation and subsequent orbital evolution around their host stars from observational signatures. I am also involved in a survey searching for exoplanets orbiting _two_ stars instead of one, meaning I get to spend weeks at a time at observatories in Chile and France in beautiful surroundings!
+Hi! I am an astronomer-in-training at the University of Birmingham, UK. In my research I study exoplanets, brown dwarfs, and low-mass stars to learn about their formation and subsequent orbital evolution around their host stars from observational signatures. I am also involved in a survey searching for exoplanets orbiting _two_ stars instead of one, meaning I get to spend weeks at a time at observatories in Chile and France in beautiful surroundings!
 
 I was born in Bosnia, but grew up in Norway where I received degrees in Physics and Astronomy from the University of Oslo. After several short but memorable research stints at the Jet Propulsion Laboratory in the US, and the European Space Agency in Spain, I spent a year working on exoplanets for my thesis project at the University of Cambridge. Since, I have continued with a PhD at Birmingham hoping to learn more about the conditions for life around other stars.
 

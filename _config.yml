@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vedad Hodžić"
 title_separator          : "-"
 name                     : &name "Vedad Hodžić"
-description              : &description "PhD student, astronomy, exoplanets"
+description              : &description "PhD student in astronomy, researching exoplanets"
 url                      : https://vedad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vedad.github.io"
@@ -84,37 +84,37 @@ author:
   avatar           : "profile_photo_square.JPG"
   bio              : "PhD student, astronomy, exoplanets"
   location         : "Birmingham, UK"
-  employer         :
-  pubmed           :
-  googlescholar    :
+  employer         : 
+  pubmed           : 
+  googlescholar    : 
   email            : "v.hodzic@pgr.bham.ac.uk"
-  researchgate     :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  researchgate     : 
+  uri              : 
+  bitbucket        : 
+  codepen          : 
+  dribbble         : 
+  flickr           : 
+  facebook         : 
+  foursquare       : 
   github           : "vedad"
-  google_plus      :
-  keybase          :
-  instagram        :
+  google_plus      : 
+  keybase          : 
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  lastfm           : 
+  linkedin         : 
   orcid            : "http://orcid.org/0000-0001-9419-3736"
-  pinterest        :
-  soundcloud       :
+  pinterest        : 
+  soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  steam            : 
+  tumblr           : 
   twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  vine             : 
+  weibo            : 
+  xing             : 
+  youtube          : 
+  wikipedia        : 
 
 
 # Reading Files

@@ -13,8 +13,8 @@ redirect_from:
 
 Education  
 ======
-* **PhD Astronomy**, University of Birmingham, 2021
-   Thesis: Obliquities of stars from the study of transiting exoplanets and eclipsing binaries
+* **PhD Astronomy**, University of Birmingham, 2021  
+   Thesis: Obliquities of stars from the study of transiting exoplanets and eclipsing binaries  
    Supervisor: Amaury Triaud  
    _Including 6 months at the University of Chicago as a Fulbright Fellow_
 * **MSc Astronomy**, University of Oslo, 2017  

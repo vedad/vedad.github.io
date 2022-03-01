@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vedad Hodžić"
+title                    : "Vedad Kunovac"
 title_separator          : "-"
-name                     : &name "Vedad Hodžić"
-description              : &description "PhD student at University of Birmingham"
+name                     : &name "Vedad Kunovac"
+description              : &description "Postdoctoral researcher at Lowell Observatory"
 url                      : https://vedad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vedad.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vedad Hodžić"
+  name             : "Vedad Kunovac"
   avatar           : "profile_photo_square.JPG"
-  bio              : "PhD student in astronomy, researching exoplanets"
-  location         : "Birmingham, UK"
+  bio              : "Postdoctoral researcher in exoplanet science"
+  location         : "Flagstaff, AZ, USA"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "v.hodzic@pgr.bham.ac.uk"
+  email            : "vedad.kunovac@lowell.edu"
   researchgate     : 
   uri              : 
   bitbucket        : 

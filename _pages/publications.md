@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Since 2020 I started publishing under the name *Vedad Kunovac Hodžić*.
+I have also previously published under the names *Vedad Kunovac Hodžić* and *Vedad Hodžić*. An up-to-date list of publications on NASA ADS can be found [here](https://tinyurl.com/KunovacADS).
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

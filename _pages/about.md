@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an astronomer-in-training at the University of Birmingham, UK. In my research I study exoplanets, brown dwarfs, and low-mass stars to learn about their formation and subsequent orbital evolution around their host stars from observational signatures. I am also involved in a survey searching for exoplanets orbiting _two_ stars instead of one, meaning I get to spend weeks at a time at observatories in Chile and France in beautiful surroundings!
+I am a Senior Research Fellow in the Astronomy and Astrophysics group at the University of Warwick, currently supported by a Royal Society Newton International Fellowship. My research focuses on the discovery, study, and characterisation of exoplanets - planets orbiting other stars in our galaxy. At Warwick I have worked with Dr David Armstrong on the study of planets in the Neptune desert and with Dr Heather Cegla on characterising orbital architectures of exoplanets and the stellar variability of their host stars with the Rossiter-McLaughlin effect.
 
-I was born in Bosnia, but grew up in Norway where I received degrees in Physics and Astronomy from the University of Oslo. After several short but memorable research stints at the Jet Propulsion Laboratory in the US, and the European Space Agency in Spain, I spent a year working on exoplanets for my thesis project at the University of Cambridge. Since, I have continued with a PhD at Birmingham hoping to learn more about the conditions for life around other stars.
+I completed my PhD at the University of Birmingham in 2021/22 with a thesis titled "Obliquities of stars from the study of transiting exoplanets and eclipsing binaries" supervised by Professor Amaury Triaud. During my doctoral studies I had a short stint as a Fulbright Fellow at the University of Chicago in 2019/2020 working with Professor Daniel Fabrycky and Dr David Martin on the characterisation of low-mass eclipsing binaries. Between 2021/22 until 2023 I was a postdoc at Lowell Observatory in Flagstaff, AZ, USA working with Dr Joe Llama on the orbital alignments of mini-Neptunes using the next-generation extreme precision radial velocity spectrograph EXPRES.
 
-In my spare time I enjoy travelling, playing football and the piano, but have in recent years enjoyed dabbling in new skills, which has included salsa dancing, ballroom and latin dancing, rowing, and fencing.
+Outside of work my interests include latin dancing, weightlifting, travelling, and hiking.
 
-<!--In my spare time I enjoy travelling, playing football and the piano, but have in recent years enjoyed dabbling in new skills, which has included salsa dancing, ballroom and latin dancing, rowing, weightlifting, and fencing.-->

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vedad Kunovac"
 title_separator          : "-"
 name                     : &name "Vedad Kunovac"
-description              : &description "Postdoctoral researcher at Lowell Observatory"
+description              : &description "Senior Research Fellow at University of Warwick"
 url                      : https://vedad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vedad.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Vedad Kunovac"
   avatar           : "profile_photo_square.JPG"
-  bio              : "Postdoctoral researcher at Lowell Observatory"
-  location         : "Flagstaff, AZ, USA"
+  bio              : "Senior Research Fellow at University of Warwick"
+  location         : "Coventry, UK"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "vedad.kunovac@lowell.edu"
+  email            : "vedad.kunovac@warwick.ac.uk"
   researchgate     : 
   uri              : 
   bitbucket        : 

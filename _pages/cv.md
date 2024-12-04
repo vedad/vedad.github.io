@@ -13,19 +13,18 @@ redirect_from:
 
 Education  
 ======
-* **PhD Astronomy**, University of Birmingham, 2021  
+* **PhD Physics**, University of Birmingham, 2021  
    Thesis: _Obliquities of stars from the study of transiting exoplanets and eclipsing binaries_  
-   Supervisor: Amaury Triaud  
    _Including 6 months at the University of Chicago as a Fulbright Fellow_
-* **MSc Astronomy**, University of Oslo, 2017  
+* **MSc Astronomy**, University of Oslo, 2017
    _Including 12 months at the University of Cambridge as a visiting student researcher_  
-   Thesis: _Early Science with the Next Generation Transit Survey_  
-   Supervisors: Didier Queloz, Edward Gillen
-* **BSc Physics & Astronomy**, University of Oslo, 2014
+* **BSc Physics**, University of Oslo, 2014
 
 Research experience
 ======
-* **Lowell Observatory**, postdoctoral researcher, 2021-
+* **University of Warwick**, senior research fellow 2024-
+* **University of Warwick**, research fellow, 2023-2024
+* **Lowell Observatory**, postdoctoral researcher, 2021-2023
 * **University of Birmingham**, postgraduate research student, 2017-2021
 * **University of Chicago**, Fulbright Fellow, 2019-2020
 * **University of Cambridge**, visiting student researcher, 2016-2017
@@ -35,12 +34,6 @@ Research experience
 
 Awards and grants
 ======
-* Fulbright Fellowship  
-* Birmingham Doctoral Scholarship  
-* University of Birmingham PhD Scholarship
-
-Scientific experience
-======
-* Referee for the journal _Astronomy & Astrophysics_ (A&A) and _Monthly Notices of the Royal Astronomical Society_ (MNRAS)
-* Lots of observing experience with HARPS (La Silla, Chile), SOPHIE (OHP, France), EXPRES (LDT, AZ, USA)
-* PI of an accepted proposal on ESPRESSO/VLT (11 hours)
+* Royal Society Newton International Fellowship (£396,000)
+* Fulbright Fellowship  (£10,000)
+* Birmingham Doctoral Scholarship (£21,000)

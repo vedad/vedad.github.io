@@ -25,8 +25,10 @@ Professional experience
 * **University of Warwick**, senior research fellow, 2024-
 * **University of Warwick**, research fellow, 2023-2024
 * **Lowell Observatory**, postdoctoral researcher, 2021-2023
-* **University of Chicago**, Fulbright Fellow, 2019-2020
-* **University of Birmingham**, postgraduate research student, 2017-2021
+  
+[comment]: <> (**University of Chicago**, Fulbright Fellow, 2019-2020)
+  
+[comment]: <> (**University of Birmingham**, postgraduate research student, 2017-2021)
   
 [comment]: <> (**University of Cambridge**, visiting student researcher, 2016-2017)
 

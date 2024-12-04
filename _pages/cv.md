@@ -13,7 +13,7 @@ redirect_from:
 
 Education  
 ======
-* **PhD Physics**, University of Birmingham, 2021
+* **PhD Physics**, University of Birmingham, 2021 
    _Including 6 months at the **University of Chicago** as a Fulbright Fellow_
    Thesis: _Obliquities of stars from the study of transiting exoplanets and eclipsing binaries_  
 

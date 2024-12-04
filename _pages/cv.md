@@ -29,10 +29,14 @@ Professional experience
 * **Lowell Observatory**, postdoctoral researcher, 2021-2023
 * **University of Chicago**, Fulbright Fellow, 2019-2020
 * **University of Birmingham**, postgraduate research student, 2017-2021
-[comment]: <> (* **University of Cambridge**, visiting student researcher, 2016-2017)
-[comment]: <> * **European Space Agency**, trainee, 2015-2016
-[comment]: <> * **NASA Jet Propulsion Laboratory**, visiting student researcher, 2015
-[comment]: <> * **University of Oslo**, research assistant, 2014
+  
+[comment]: <> (**University of Cambridge**, visiting student researcher, 2016-2017)
+
+[comment]: <> (**European Space Agency**, trainee, 2015-2016)
+
+[comment]: <> (**NASA Jet Propulsion Laboratory**, visiting student researcher, 2015)
+
+[comment]: <> (**University of Oslo**, research assistant, 2014)
 
 Awards and grants
 ======

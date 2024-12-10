@@ -9,16 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- A full CV can be found here (insert link later).-->
+
+A full CV can be found [here](/files/cv.md).
 
 Education  
 ======
-* **PhD Physics**, University of Birmingham, 2021\
+* **PhD Astronomy**, University of Birmingham, 2017-2021\
    _Including 6 months at the **University of Chicago** as a Fulbright Fellow_\
    Thesis: [_Obliquities of stars from the study of transiting exoplanets and eclipsing binaries_](https://core.ac.uk/download/553143394.pdf)
-* **MSc Astronomy**, University of Oslo, 2017\
+* **MSc Astronomy**, University of Oslo, 2014-2017\
    _Including 12 months at the **University of Cambridge** as a visiting student researcher_
-* **BSc Physics**, University of Oslo, 2014
+* **BSc Physics**, University of Oslo, 2011-2014
 
 Professional experience
 ======

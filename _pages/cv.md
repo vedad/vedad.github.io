@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-A full CV can be found [here](/files/cv.md).
+A full CV can be found [here](/files/cv.pdf).
 
 Education  
 ======
